@@ -55,7 +55,7 @@ const EXPERIENCES = [
   },
   {
     type: "education",
-    title: "High School / Intermediate",
+    title: "High School / Intermediate",A
     company: "UBSE",
     date: "Completed",
     desc: "Foundational education and coursework.",
