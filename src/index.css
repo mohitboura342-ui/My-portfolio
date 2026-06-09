@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&family=Caveat:wght@400;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "Space Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+@layer utilities {
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  @keyframes jiggle {
+    0% { transform: rotate(-5deg) scale(1.05); }
+    25% { transform: rotate(5deg) scale(1.05); }
+    50% { transform: rotate(-5deg) scale(1.05); }
+    75% { transform: rotate(5deg) scale(1.05); }
+    100% { transform: rotate(-5deg) scale(1.05); }
+  }
+  .jiggle-hover:hover {
+    animation: jiggle 0.4s ease-in-out infinite;
+  }
+}
+
+body {
+  background-color: #d0d0d0;
+  color: #000;
+  padding: 10px;
+}
+
+@media (min-width: 768px) {
+  body {
+    padding: 20px;
+  }
+}
+
+.brutal-wrapper {
+  background: 
+    radial-gradient(ellipse at top left, rgba(255, 255, 255, 0.9) 0%, transparent 35%),
+    radial-gradient(ellipse at top right, rgba(255, 255, 255, 0.9) 0%, transparent 35%),
+    radial-gradient(ellipse at bottom left, rgba(255, 255, 255, 0.9) 0%, transparent 35%),
+    radial-gradient(ellipse at bottom right, rgba(255, 255, 255, 0.9) 0%, transparent 35%),
+    repeating-linear-gradient(90deg, #f0f0f0 0px, #f0f0f0 1px, transparent 1px, transparent 20px),
+    repeating-linear-gradient(0deg, #f0f0f0 0px, #f0f0f0 1px, transparent 1px, transparent 20px),
+    #ffffff;
+  background-size: 100% 100%, 100% 100%, 100% 100%, 100% 100%, 20px 20px, 20px 20px, 100%;
+}
+
+/* Custom Scrollbar - Brutalist Vibe */
+::-webkit-scrollbar {
+  width: 16px;
+  background: #d0d0d0;
+}
+::-webkit-scrollbar-track {
+  background: #d0d0d0;
+}
+::-webkit-scrollbar-thumb {
+  background: #000;
+  border: 3px solid #000;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #333;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Base styles for sticky tape */
+.tape-sticker {
+  position: absolute;
+  background: rgba(255, 217, 61, 0.9);
+  border: 2px solid rgba(0, 0, 0, 0.2);
+  border-radius: 2px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+.tape-sticker::before {
+  content: '';
+  position: absolute;
+  top: 50%; left: 8%; right: 8%;
+  height: 2px; background: rgba(0, 0, 0, 0.08);
+  transform: translateY(-50%);
+}
+.tape-sticker::after {
+  content: '';
+  position: absolute;
+  top: 30%; left: 8%; right: 8%;
+  height: 2px; background: rgba(0, 0, 0, 0.08);
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 12px;
+  background: transparent;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #000;
+  border: 2px solid #d0d0d0;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #333;
+}
+
+/* Leaflet Brutalist Overrides */
+.leaflet-tile-pane {
+  filter: grayscale(0.2) contrast(1.1) sepia(0.3) saturate(1.2) hue-rotate(15deg);
+}
+.leaflet-popup-content-wrapper {
+  background: #fff;
+  color: #000;
+  border: 3px solid #000;
+  border-radius: 0;
+  box-shadow: 6px 6px 0 0 #000;
+  padding: 0;
+}
+.leaflet-popup-tip-container {
+  display: none;
+}
+.leaflet-container a.leaflet-popup-close-button {
+  color: #000;
+  padding: 4px;
+  transition: all 0.2s;
+  font-weight: bold;
+}
+.leaflet-container a.leaflet-popup-close-button:hover {
+  background: #ffd93d;
+  color: #000;
+}
+.brutalist-popup .leaflet-popup-content {
+  margin: 12px;
+}
+
+@media print {
+  body {
+    background: none;
+    padding: 0;
+  }
+  .brutal-wrapper {
+    background: none;
+    box-shadow: none !important;
+    border: none !important;
+  }
+  nav, button, .tape-sticker, .deco-code, .deco-terminal, .deco-floppy, .deco-label {
+    display: none !important;
+  }
+  * {
+    box-shadow: none !important;
+    transform: none !important;
+    rotate: none !important;
+  }
+}
