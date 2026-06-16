@@ -1,71 +1,178 @@
 # <h1 align="center">Hi 👋, I'm Mohit Boura</h1>
 
-<h3 align="center">Aspiring Data Scientist | Python | SQL | Machine Learning | Data Analytics</h3>
+<h3 align="center">AI Data Scientist | Python | SQL | Machine Learning | Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Data+Analytics+Enthusiast;Building+Projects+Every+Day;Turning+Data+Into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Deep+Learning+Enthusiast;Building+Data+Driven+Solutions;Exploring+LLMs+%26+RAG;Turning+Data+Into+Insights" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohitboura342-ui&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGd3M3Nyb2N5bjlmY2h5YTZrZmJxY2x6NG14NjNxMWFhZWt3dHF5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 ## 🚀 About Me
 
-* 📍 Based in Almora, Uttarakhand, India
-* 📊 Passionate about Data Analytics & Machine Learning
-* 🐍 Learning Python, SQL, Power BI & AI
-* 📚 Exploring LLMs, RAG & Generative AI
-* 🎯 Goal: Become a Data Scientist
-* 🌱 Building projects and learning every day
+* 📍 Based in Uttarakhand, India
+* 🎓 B.Com (Analytics & Technology) Student
+* 💼 Data Science Intern (Training) at vijAI Robotics Pvt Ltd
+* 📊 Passionate about Data Analytics, AI & Machine Learning
+* 🤖 Exploring LLMs, RAG, Deep Learning & Generative AI
+* 🐍 Skilled in Python, SQL, Statistics & Data Visualization
+* 🌱 Continuously learning and building real-world projects
+* 🎯 Goal: Become an AI & Data Science Professional
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### Data Analytics
+### Data Analytics & Visualization
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ### Machine Learning
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
 
-### Tools
+### Tools & Platforms
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=Jupyter)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi)
 
 ---
 
-## 📂 Featured Projects
+## 💼 Professional Experience
+
+### 🏢 Data Science Intern (Training)
+
+**vijAI Robotics Pvt Ltd** | Sep 2025 – Present
+
+* Performed Data Cleaning and Exploratory Data Analysis (EDA)
+* Built Machine Learning models for predictive analytics
+* Applied Statistical Analysis and Feature Engineering
+* Worked with Python, Pandas, NumPy, Scikit-Learn and Power BI
+* Generated actionable business insights from datasets
+* Created dashboards and analytical reports
+
+---
+
+## 🎓 Education
+
+### Bachelor of Commerce (Analytics & Technology)
+
+**Uttarakhand Open University**
+2025 – 2028
+
+---
+
+## 📜 Certifications
+
+### Analytics Vidhya
+
+✅ Core Python
+
+✅ Data Analysis
+
+✅ Data Manipulation
+
+✅ Data Visualization
+
+✅ NumPy
+
+✅ Pandas
+
+✅ Matplotlib
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Voice Controlled AI Assistant
+
+* Built using Python, Ollama & Llama 3
+* Voice Commands
+* Laptop Automation
+* AI Chat Integration
 
 ### 📊 Employee Attrition Analysis
 
 * Data Cleaning
-* Exploratory Data Analysis (EDA)
+* EDA
 * Machine Learning
 * Attrition Prediction
 
-### 📈 Sales Dashboard
+### ✈️ Flight Delay Analysis
 
-* Power BI Dashboard
-* KPI Analysis
+* Airline Operations Analysis
+* Delay Pattern Detection
 * Business Insights
+
+### 🚖 Uber Trip Data Analysis
+
+* Ride Pattern Analysis
+* Peak Demand Analysis
+* Customer Behavior Insights
+
+### 💰 Loan Prediction Analysis
+
+* Correlation Analysis
+* Approval Pattern Analysis
+* Predictive Insights
+
+### 🛒 E-Commerce Customer Analysis
+
+* Customer Retention
+* Cart Abandonment Analysis
+* Business Intelligence
+
+### 📡 Telecom Customer Churn Analysis
+
+* Churn Prediction
+* Customer Segmentation
+* Data Visualization
 
 ### 🤖 RAG Chatbot
 
-* LLM Integration
 * Vector Database
 * Retrieval-Augmented Generation
+* LLM Integration
+
+---
+
+## 📈 Currently Learning
+
+* Advanced SQL
+* Machine Learning
+* Deep Learning
+* Generative AI
+* LangChain
+* LlamaIndex
+* RAG Architecture
+* Data Engineering
+
+---
+
+## 🏆 Achievements
+
+* 🎯 500+ LinkedIn Connections
+* 📈 1200+ LinkedIn Followers
+* 💼 Data Science Internship Experience
+* 📊 Multiple End-to-End Analytics Projects
+* 🚀 Active Learner in AI & Data Science
+* 🌐 Personal Portfolio Website Published
 
 ---
 
@@ -121,6 +228,28 @@
 
 ---
 
+## 📚 Featured Skills
+
+Python • SQL • Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn • Power BI • Statistics • Machine Learning • Deep Learning • EDA • Data Visualization • Git • GitHub
+
+---
+
+## 🌟 Fun Fact
+
+```python
+while True:
+    learn()
+    build_projects()
+    share_on_linkedin()
+    improve_skills()
+```
+
+---
+
 <p align="center">
 ✨ "Without data, you're just another person with an opinion." ✨
+</p>
+
+<p align="center">
+🚀 Thanks for visiting my profile! Let's connect and build something amazing together.
 </p>
