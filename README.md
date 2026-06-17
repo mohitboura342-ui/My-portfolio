@@ -1,4 +1,6 @@
 
+<img width="1511" height="704" alt="Gemini_Generated_Image_c5egb6c5egb6c5eg" src="https://github.com/user-attachments/assets/ce7791b9-9d46-4417-b1b7-e1c25b4b82a2" />
+
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Welcome to My Digital Universe
 
