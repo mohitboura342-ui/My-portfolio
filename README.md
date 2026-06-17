@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="1511" height="704" alt="Gemini_Generated_Image_c5egb6c5egb6c5eg" src="https://github.com/user-attachments/assets/eb4101f9-4d42-4626-a505-4921ed01119f" />
+
 <img src="assets/mohit-boura.jpg" width="220" style="border-radius:50%;" alt="Mohit Boura"/>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Welcome to My Digital Universe
