@@ -1,6 +1,3 @@
-<div align="center">
-
-<img width="1511" height="704" alt="Gemini_Generated_Image_c5egb6c5egb6c5eg" src="https://github.com/user-attachments/assets/eb4101f9-4d42-4626-a505-4921ed01119f" />
 
 <img src="assets/mohit-boura.jpg" width="220" style="border-radius:50%;" alt="Mohit Boura"/>
 
