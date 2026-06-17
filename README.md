@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/ce7791b9-9d46-4417-b1b7-e1c25b4b82a2" width="100%" alt="Mohit Boura Banner"/>
+<img src="https://github.com/user-attachments/assets/ce7791b9-9d46-4417-b1b7-e1c25b4b82a2" width="78%" alt="Mohit Boura Banner"/>
 
 # 👋 Welcome to My Digital Universe
 
