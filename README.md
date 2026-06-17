@@ -1,255 +1,161 @@
-# <h1 align="center">Hi 👋, I'm Mohit Boura</h1>
+<div align="center">
 
-<h3 align="center">AI Data Scientist | Python | SQL | Machine Learning | Deep Learning Enthusiast</h3>
+<img src="assets/mohit-boura.jpg" width="220" style="border-radius:50%;" alt="Mohit Boura"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Deep+Learning+Enthusiast;Building+Data+Driven+Solutions;Exploring+LLMs+%26+RAG;Turning+Data+Into+Insights" />
-</p>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Welcome to My Digital Universe
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohitboura342-ui&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mohit+Boura;Data+Scientist+%7C+Machine+Learning+Engineer;Python+Developer+%7C+Business+Analytics;Turning+Data+Into+Business+Value" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:06b6d4&height=250&section=header&text=Mohit%20Boura&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
+## 🌟 About Me
 
-## 🚀 About Me
+```yaml
+Name: Mohit Boura
+Location: Uttarakhand, India
+Education: BCom (Analytics & Tech)
+Role: Data Science Intern @ vijAI Robotics Pvt Ltd
+Passion:
+  - Data Analytics
+  - Machine Learning
+  - Business Intelligence
+  - Artificial Intelligence
+  - Esports & Gaming
+```
 
-* 📍 Based in Uttarakhand, India
-* 🎓 B.Com (Analytics & Technology) Student
-* 💼 Data Science Intern (Training) at vijAI Robotics Pvt Ltd
-* 📊 Passionate about Data Analytics, AI & Machine Learning
-* 🤖 Exploring LLMs, RAG, Deep Learning & Generative AI
-* 🐍 Skilled in Python, SQL, Statistics & Data Visualization
-* 🌱 Continuously learning and building real-world projects
-* 🎯 Goal: Become an AI & Data Science Professional
+💡 Passionate about transforming raw data into actionable business insights.
+
+📊 Skilled in Python, SQL, Power BI, Statistics, EDA, Machine Learning, and Data Visualization.
+
+🚀 Currently building real-world Data Science and AI projects.
+
+---
+
+## 🎬 Animated Tech Banner
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=python" height="60"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql" height="60"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=git" height="60"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=github" height="60"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=vscode" height="60"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=aws" height="60"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=figma" height="60"></a>
 
-### Data Analytics & Visualization
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
-### Machine Learning
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
-
-### Tools & Platforms
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=Jupyter)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi)
+</div>
 
 ---
 
-## 💼 Professional Experience
+## 📈 GitHub Statistics
 
-### 🏢 Data Science Intern (Training)
+<div align="center">
 
-**vijAI Robotics Pvt Ltd** | Sep 2025 – Present
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohitboura342-ui&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-* Performed Data Cleaning and Exploratory Data Analysis (EDA)
-* Built Machine Learning models for predictive analytics
-* Applied Statistical Analysis and Feature Engineering
-* Worked with Python, Pandas, NumPy, Scikit-Learn and Power BI
-* Generated actionable business insights from datasets
-* Created dashboards and analytical reports
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitboura342-ui&theme=tokyonight&hide_border=true"/>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitboura342-ui&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 🎓 Education
-
-### Bachelor of Commerce (Analytics & Technology)
-
-**Uttarakhand Open University**
-2025 – 2028
+</div>
 
 ---
 
-## 📜 Certifications
+## 🔥 Contribution Graph
 
-### Analytics Vidhya
+<div align="center">
 
-✅ Core Python
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitboura342-ui&theme=tokyo-night&hide_border=true"/>
 
-✅ Data Analysis
-
-✅ Data Manipulation
-
-✅ Data Visualization
-
-✅ NumPy
-
-✅ Pandas
-
-✅ Matplotlib
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 Voice Controlled AI Assistant
+### 🍽️ Zomato EDA Analysis
+- Restaurant ratings analysis
+- Customer behavior insights
+- Online vs Offline trends
+- Data visualization with Python
 
-* Built using Python, Ollama & Llama 3
-* Voice Commands
-* Laptop Automation
-* AI Chat Integration
+### 🚗 Used Car EDA
+- Price trend analysis
+- Mileage impact study
+- Vehicle condition insights
 
-### 📊 Employee Attrition Analysis
+### 📱 Telecom Churn EDA
+- Customer retention analysis
+- Churn drivers identification
+- Predictive analytics foundation
 
-* Data Cleaning
-* EDA
-* Machine Learning
-* Attrition Prediction
-
-### ✈️ Flight Delay Analysis
-
-* Airline Operations Analysis
-* Delay Pattern Detection
-* Business Insights
-
-### 🚖 Uber Trip Data Analysis
-
-* Ride Pattern Analysis
-* Peak Demand Analysis
-* Customer Behavior Insights
-
-### 💰 Loan Prediction Analysis
-
-* Correlation Analysis
-* Approval Pattern Analysis
-* Predictive Insights
-
-### 🛒 E-Commerce Customer Analysis
-
-* Customer Retention
-* Cart Abandonment Analysis
-* Business Intelligence
-
-### 📡 Telecom Customer Churn Analysis
-
-* Churn Prediction
-* Customer Segmentation
-* Data Visualization
-
-### 🤖 RAG Chatbot
-
-* Vector Database
-* Retrieval-Augmented Generation
-* LLM Integration
+### 🛒 E-Commerce Analytics
+- Sales performance analysis
+- Customer behavior study
+- Strategic business insights
 
 ---
 
-## 📈 Currently Learning
+## 🎮 Hobbies & Interests
 
-* Advanced SQL
-* Machine Learning
-* Deep Learning
-* Generative AI
-* LangChain
-* LlamaIndex
-* RAG Architecture
-* Data Engineering
+🏏 Cricket
 
----
+🎮 Esports & Gaming
 
-## 🏆 Achievements
+🤖 Exploring AI Technologies
 
-* 🎯 500+ LinkedIn Connections
-* 📈 1200+ LinkedIn Followers
-* 💼 Data Science Internship Experience
-* 📊 Multiple End-to-End Analytics Projects
-* 🚀 Active Learner in AI & Data Science
-* 🌐 Personal Portfolio Website Published
+📚 Learning New Skills
+
+📊 Data Analytics
 
 ---
 
-## 🌐 Portfolio
+## 🌍 Connect With Me
 
-🔗 https://my-portfolio-t345.vercel.app
-
----
-
-## 📬 Connect With Me
-
-<p align="left">
+<div align="center">
 
 <a href="mailto:mohitboura342@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/mohit-boura-558382379">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/mohitboura342-ui">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 👀 Profile Visitors
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohitboura342-ui&show_icons=true&theme=tokyonight"/>
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitboura342-ui&layout=compact&theme=tokyonight"/>
-</p>
+![](https://komarev.com/ghpvc/?username=mohitboura342-ui&color=blueviolet&style=for-the-badge)
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=mohitboura342-ui&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohitboura342-ui&theme=tokyonight&row=1&column=7"/>
-</p>
+### ⚡ "Data is the new oil, but insights are the real fuel."
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Open+to+Work+%7C+Data+Science+%7C+AI"/>
 
-## 📚 Featured Skills
-
-Python • SQL • Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn • Power BI • Statistics • Machine Learning • Deep Learning • EDA • Data Visualization • Git • GitHub
-
----
-
-## 🌟 Fun Fact
-
-```python
-while True:
-    learn()
-    build_projects()
-    share_on_linkedin()
-    improve_skills()
-```
-
----
-
-<p align="center">
-✨ "Without data, you're just another person with an opinion." ✨
-</p>
-
-<p align="center">
-🚀 Thanks for visiting my profile! Let's connect and build something amazing together.
-</p>
+</div>
