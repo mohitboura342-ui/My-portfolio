@@ -1,5 +1,4 @@
 
-<img src="assets/mohit-boura.jpg" width="220" style="border-radius:50%;" alt="Mohit Boura"/>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Welcome to My Digital Universe
 
